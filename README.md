@@ -49,6 +49,4 @@ npx hardhat run scripts/deploy.js
 npx hardhat test
 ```
 
-## Author
-Aditya Waghamare  
-Smart Contract Developer
+
